@@ -7,7 +7,7 @@ const userInputString = prompt(
 
 const stringArray = userInputString.split(",");
 
-console.table(stringArray);
+// console.table(stringArray);
 
 function amount(){
     const froyo = {};
